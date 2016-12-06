@@ -1,0 +1,11 @@
+{
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "WebInspector": true
+  },
+  "rules": {
+    "no-unused-expressions": 0
+  }
+}
